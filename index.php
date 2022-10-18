@@ -22,7 +22,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     <!-- Left Column -->
     <div class="w3-third">
     
-      <div class="w3-white w3-text-grey w3-card-4">
+      <div class="w3-grey w3-text-white w3-card-4">
         <div class="w3-display-container">
           <img src="https://scontent.fkkc3-1.fna.fbcdn.net/v/t39.30808-6/242877860_1576174672759179_7529231060200336129_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeEhc3VpV1reuGcxrpUeBQEXafgQ-qeS3AJp-BD6p5LcArY90t2a5_y8kAm2Q_MS3x4XvhvQmm4R5Tx5uSZdya4K&_nc_ohc=GRfHFUM_3IUAX_kr8po&_nc_ht=scontent.fkkc3-1.fna&oh=00_AT_uchgRjG8E0AA261F01ylW3GJ0Gr-nBgRzki8PZMQkHw&oe=634B24A1" style="width:100%" alt="Avatar">
           <div class="w3-display-bottomleft w3-container w3-text-black">
@@ -59,15 +59,15 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
           <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-aqua"></i>Languages</b></p>
                      <p>Thai</p>
           <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-center w3-aqua" style="height:24px;width:90%">100%</div>
+            <div class="w3-round-xlarge w3-center w3-aqua" style="height:24px;width:100%">100%</div>
           </div>
           <p>English</p>
           <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-center w3-aqua" style="height:24px;width:50%">60%</div>
+            <div class="w3-round-xlarge w3-center w3-aqua" style="height:24px;width:60%">60%</div>
           </div>
           <p>Lao</p>
           <div class="w3-light-grey w3-round-xlarge">
-            <div class="w3-round-xlarge w3-center w3-aqua" style="height:24px;width:30%">100%</div>
+            <div class="w3-round-xlarge w3-center w3-aqua" style="height:24px;width:100%">100%</div>
           </div>
           <br>
         </div>
@@ -87,7 +87,6 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Business Information Technology, Mahasarakham University</b></h5>
           <h6 class="w3-text-aqua"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2015-2022</h6>
-          <p>Studying</p>
           <hr>
         </div>
       </div>
